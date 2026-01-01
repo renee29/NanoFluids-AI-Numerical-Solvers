@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "NanoFluids-AI: Numerical Validation Suite (Non-local & FEM)"
+version: 1.0.0
+date-released: 2025-12-31
+abstract: |
+  Rigorous 1D numerical solvers for non-local and variable-coefficient elliptic PDEs.
+  Includes a Galerkin FEM solver with P1 elements for variable-coefficient problems
+  and a collocation solver for integro-differential equations with Gaussian kernels.
+  Validation via Method of Manufactured Solutions (MMS) with convergence analysis.
+  Part of the NanoFluids-AI computational framework.
+authors:
+  - family-names: Fábregas
+    given-names: René
+    orcid: https://orcid.org/0000-0002-3751-8853
+    affiliation: "Modelling Nature (MNat) Research Unit, Universidad de Granada, Spain"
+    email: rfabregas@ugr.es
+keywords:
+  - finite element method
+  - non-local operators
+  - integral equations
+  - convergence analysis
+  - method of manufactured solutions
+  - numerical validation
+  - elliptic PDE
+  - nanofluidics
+license: MIT
+repository-code: https://github.com/renee29/NanoFluids-AI-Numerical-Solvers
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXX
+    description: "Zenodo DOI (reserved)"
