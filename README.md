@@ -1,4 +1,3 @@
-
 # NanoFluids-AI: Numerical Validation Suite (Non-local & FEM)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -89,6 +88,8 @@ The comparison between the two solvers highlights the fundamental shift in compu
 2. **Convergence Regimes:** While the Local FEM follows strict polynomial convergence ($h^2$), the Non-Local solver's accuracy is governed by the interplay between mesh size $h$ and correlation length $\xi$.
 3. **Conclusion:** The successful validation of the Non-Local solver confirms that **integro-differential constitutive laws** can be solved with comparable robustness to standard PDEs, provided adaptive quadrature is employed to resolve the kernel singularity.
 
+> **Note:** This validation suite employs a Collocation method for rapid prototyping and de-risking. The production implementation (T4.1) uses a Conforming Galerkin scheme with $\mathcal{H}$-matrix compression for $\mathcal{O}(N \log N)$ complexity.
+
 ---
 
 ## 5. Repository Structure
@@ -150,4 +151,12 @@ If you use these solvers or the validation methodology, please cite:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or collaboration inquiries, please open a GitHub issue or contact R. Fabregas (NanoFluids-AI Team, rfabregas@ugr.es).
+
+---
+
+**Project Status**: Initial release (v1.0.0) - December 2025
