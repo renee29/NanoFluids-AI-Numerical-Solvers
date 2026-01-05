@@ -4,7 +4,7 @@
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)
 ![Method: Numerical Analysis](https://img.shields.io/badge/Method-Numerical_Analysis-purple.svg)
 ![Status: Validated](https://img.shields.io/badge/Status-Validated-brightgreen.svg)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18156783.svg)](https://doi.org/10.5281/zenodo.18156783)
 
 ## 1. Scientific Overview
 
@@ -143,9 +143,9 @@ If you use these solvers or the validation methodology, please cite:
   author = {NanoFluids-AI Computational Team},
   title = {NanoFluids-AI: Numerical Validation Suite (Non-local & FEM)},
   version = {1.0.0},
-  year = {2025},
+  year = {2026},
   url = {https://github.com/renee29/NanoFluids-AI-Numerical-Solvers},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.18156783}
 }
 ```
 
