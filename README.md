@@ -1,4 +1,4 @@
-# NanoFluids-AI: Numerical Validation Suite (Non-local & FEM)
+# ICON₁₀: Numerical Validation Suite (Non-local & FEM)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green.svg)
@@ -140,8 +140,8 @@ If you use these solvers or the validation methodology, please cite:
 
 ```bibtex
 @software{nanofluids_ai_numerical_2025,
-  author = {NanoFluids-AI Computational Team},
-  title = {NanoFluids-AI: Numerical Validation Suite (Non-local & FEM)},
+  author = {Fabregas, R.},
+  title = {ICON₁₀: Numerical Validation Suite (Non-local & FEM)},
   version = {1.0.0},
   year = {2026},
   url = {https://github.com/renee29/NanoFluids-AI-Numerical-Solvers},
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaboration inquiries, please open a GitHub issue or contact R. Fabregas (NanoFluids-AI Team, rfabregas@ugr.es).
+For questions or collaboration inquiries, please open a GitHub issue or contact R. Fabregas (ICON₁₀, rfabregas@ugr.es).
 
 ---
 
